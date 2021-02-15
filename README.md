@@ -5,7 +5,7 @@
 -->
 
 
-I'm Dhruv, a mechatronics engineering student at the University of Waterloo, and recipient of the Schulich Leader Scholarship, the most coveted STEM scholarship in Canada. I am passionate about emerging technologies, the environment, and entrepreneurship.
+I'm Dhruv, a mechatronics engineering student at the University of Waterloo, and recipient of the Schulich Leader Scholarship, the most coveted STEM scholarship in Canada. I am passionate about emerging technologies in the field of aviation and robotics.
 
 Currently, I'm working as a Software Developer Intern at Automated Visualization, and as a youth delegate at the Region of Durham's Environmental Advisory Committee. In the past, I have participated in a variety of extracurriculars, dabbled my foot into social entrepreneurship, conducted bioinformatics research, and ran campaigns for environmental awareness.
 
