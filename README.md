@@ -7,6 +7,6 @@
 
 I'm Dhruv, a mechatronics engineering student at the University of Waterloo, and recipient of the Schulich Leader Scholarship, the most coveted STEM scholarship in Canada. I am passionate about emerging technologies in the field of aviation and robotics.
 
-Currently, I'm working as a Software Developer Intern at Automated Visualization, and as a youth delegate at the Region of Durham's Environmental Advisory Committee. In the past, I have participated in a variety of extracurriculars, dabbled my foot into social entrepreneurship, conducted bioinformatics research, and ran campaigns for environmental awareness.
+Currently, I'm an embedded systems developer at the University of Waterloo Mars Rover Team and the Aerial Robotics Team, where I work with the STM32 microcontroller, and MBED-OS RTOS to develop firmware. In the past, I've worked as a Software Developer Intern at Automated Visualization (AuVis), a SaaS startup developing commercial data visuializtion dashboards. I have also conducted bioinformatics research, and participated in engineering clubs such as FIRST and Skills Robotics, where I was the Team Captain.
 
 Some of my hobbies including flying (I'm a licensed glider pilot), hiking, and reading books. I'm always open to new opportunities and possible internships in the fields of embedded systems, electrical engineering, and robotics, so please don't hesitate to reach out to me, I look forward to connecting! 
